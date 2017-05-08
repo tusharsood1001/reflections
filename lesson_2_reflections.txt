@@ -1,0 +1,8 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+.git hidden directory was created. ran a command git init
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+its in between both helps to keep files in it until it is added to resosiotry from working directory.
+Helped in doing commit of only those files we needed to.
