@@ -1,1 +1,2 @@
-Whwn you would want to create reote repository rather than keeping all your work local ?
+When you would want to create remote repository rather than keeping all your work local ?
+    It is done when you would like to share your files with other people remotely.
